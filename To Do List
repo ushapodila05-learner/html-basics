@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>mini.prjt</title>
+</head>
+<body>
+    <h1> MY TO-DO LIST</h1>
+
+<p>These is useful to check your daily tasks</p>
+
+<input type="checkbox">DSA task
+<br>
+<input type="checkbox"> Aptitude Today's topic<br>
+<input type="checkbox"> subjects assignments<br>
+<input type="checkbox"> Todays mock test<br>
+<input type="checkbox"> Linledin post<br>
+<input type="checkbox"> Internship <br>
+<input type="checkbox"> searching for free resources for GATE<br>
+
+
+
+
+
+
+
+
+</body>
+</html>
